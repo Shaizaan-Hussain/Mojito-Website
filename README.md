@@ -67,7 +67,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/Shaizaan-Hussain/Mojito-Website.git
-cd gsap_cocktails
+cd Mojito-Website
 ```
 
 **Installation**
